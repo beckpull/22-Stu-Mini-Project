@@ -1,0 +1,77 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+
+}
+
+header {
+    text-align: right;
+    background-color: #135C3C;
+    height: 50px;
+    color: white;
+    padding: 10px;
+    border-bottom: 5px solid #f0ccb5;
+    margin-bottom: 0;
+
+}
+
+footer {
+    background-color: #135C3C;
+    color: white;
+    height: 35px;
+}
+
+main {
+    background-color: #fbf0e7;
+    margin-top: -20px;
+    color: #5C4F4D
+}
+
+h1 {
+    padding-top: 20px;
+}
+
+
+ul {
+    list-style-type: none;
+    background-color: #135b14;
+}
+
+li {
+    display: inline;
+
+    margin-inline: 5px;
+}
+
+input {
+    width: 275px;
+}
+
+button {
+    border-radius: 2px;
+    background-color: #5C4F4D;
+    color: white;
+    width: 68px;
+    height: 25px;
+}
+
+.contact-me {
+    background-color: #F0CCB5;
+    padding: 5px;
+    text-align: center;
+    border-top: 2px solid #EAB18C;
+}
+
+#inputs {
+    width: fit-content;
+    height: fit-content;
+    border-radius: 15px;
+    border: 2px solid #EAB18C;
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+    {}
