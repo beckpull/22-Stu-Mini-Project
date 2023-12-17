@@ -9,21 +9,25 @@ header {
     background-color: #135C3C;
     height: 50px;
     color: white;
-    padding: 10px;
+    padding-top: 25px;;
     border-bottom: 5px solid #f0ccb5;
     margin-bottom: 0;
-
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
 }
 
 footer {
     background-color: #135C3C;
     color: white;
-    height: 35px;
+    height: 75px;
+    line-height: 75px;
 }
 
 main {
     background-color: #fbf0e7;
-    margin-top: -20px;
+    margin-top: 80px;
     color: #5C4F4D
 }
 
@@ -35,11 +39,11 @@ h1 {
 ul {
     list-style-type: none;
     background-color: #135b14;
+    
 }
 
 li {
     display: inline;
-
     margin-inline: 5px;
 }
 
